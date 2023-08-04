@@ -1,5 +1,5 @@
-import '/.app.style.css'
-export function App() {
+import '/.style.css'
+export function app() {
     return (
       <div>
         <h1>Hello Word!</h1>
